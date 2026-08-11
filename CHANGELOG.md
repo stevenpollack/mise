@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026.8.5](https://github.com/jdx/mise/compare/v2026.8.4..v2026.8.5) - 2026-08-11
+
+### 🐛 Bug Fixes
+
+- **(tests)** repair the workspace member tests and run them in CI by @JamBalaya56562 in [#11839](https://github.com/jdx/mise/pull/11839)
+
 ## [2026.8.4](https://github.com/jdx/mise/compare/v2026.8.3..v2026.8.4) - 2026-08-10
 
 ### 🚀 Features
